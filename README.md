@@ -1,4 +1,2 @@
-# hello-world
-just kidding
-
-i need to write a commit change
+### grab-leetcode
+A project for Leetcode exercise.
